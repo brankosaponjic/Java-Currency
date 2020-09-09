@@ -10,8 +10,8 @@ public class Main {
         CurrencyExchangerImplRSDIntoEuro rsdIntoEuro = new CurrencyExchangerImplRSDIntoEuro();
 
         System.out.println("Choose one of to options: ");
-        System.out.println("1 - for converting into dinars");
-        System.out.println("2 - for converting into euros");
+        System.out.println("1 - for converting euros into dinars");
+        System.out.println("2 - for converting dinars into euros");
         System.out.print("Your option: ");
 
         try{
